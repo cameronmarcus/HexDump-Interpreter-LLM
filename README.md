@@ -11,4 +11,4 @@ Fomat of file can be txt document, csv, json or whichever format you wish just u
 
 3. Build your query engine from your index.
 
-4. Query your network data!
+4. Query your network data via natural language!
